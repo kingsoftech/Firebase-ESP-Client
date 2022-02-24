@@ -40,7 +40,7 @@ The flash and SD filesystems supports depend on the devices and third party file
  * LAN8720 Ethernet PHY
  * ENC28J60 SPI Ethernet module
 
-### Supposted Arduino Devices with flash size > 128k, using custom Clients.
+### Supported Arduino Devices with flash size > 128k, using custom Clients.
 
  * ESP32
  * ESP8266
